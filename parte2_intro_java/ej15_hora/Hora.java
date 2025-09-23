@@ -1,4 +1,4 @@
-package parte2_intro_java.Ej15_Hora;
+package parte2_intro_java.ej15_hora;
 
 public class Hora {
     private int hora;

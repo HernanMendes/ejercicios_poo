@@ -1,4 +1,4 @@
-package parte2_intro_java.Ej12_Punto;
+package parte2_intro_java.ej12_punto;
 
 public class Main {
     public static void main(String[] args) {

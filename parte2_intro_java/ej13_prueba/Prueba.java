@@ -1,4 +1,4 @@
-package parte2_intro_java.EJ13_Prueba;
+package parte2_intro_java.ej13_prueba;
 
 public class Prueba {
     private int num;

@@ -1,4 +1,4 @@
-package parte2_intro_java.Ej11_Archivo;
+package parte2_intro_java.ej11_archivo;
 
 public class Main {
     public static void main(String[] args) {
