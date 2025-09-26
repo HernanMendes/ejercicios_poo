@@ -11,6 +11,6 @@ Para ver los diagramas de clase UML de los archivos markdown puede ser necesario
 ## Comandos para compilar y ejecutar
 
 ```bash
-javac -d bin parte2_intro_java/ej17_punto/*.java
-java -cp bin parte2_intro_java.ej17_punto.Main
+javac -d bin src/parte2_intro_java/ej17_punto/*.java
+java -cp bin src/parte2_intro_java.ej17_punto.Main
 ```
